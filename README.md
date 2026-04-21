@@ -5,27 +5,7 @@
   Full-Stack Development &nbsp;·&nbsp; Open Source
 </p>
 
-<p align="center">
-  <a href="https://github.com/AryanK-IT?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/AryanK-IT?color=181717&labelColor=1c1c1c&style=for-the-badge&logo=person-add&label=Follow&logoColor=ffffff"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/AryanK-IT?tab=repositories&sort=stargazers">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/AryanK-IT?color=181717&style=for-the-badge&labelColor=1c1c1c&logo=star&logoColor=ffffff"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/aryan-kumar-3790232a4">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://aryan-portfolio-v01.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:aryankumar.it04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<p align="center"><a href="https://github.com/AryanK-IT?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/AryanK-IT?color=181717&labelColor=1c1c1c&style=for-the-badge&logo=person-add&label=Follow&logoColor=ffffff"/></a><a href="https://github.com/AryanK-IT?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/AryanK-IT?color=181717&style=for-the-badge&labelColor=1c1c1c&logo=star&logoColor=ffffff"/></a><a href="https://www.linkedin.com/in/aryan-kumar-3790232a4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://aryan-portfolio-v01.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a><a href="mailto:aryankumar.it04@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
 
 ---
 
@@ -111,23 +91,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AryanK-IT&show_icons=true&bg_color=1c1c1c&title_color=ffffff&text_color=a0a0a0&icon_color=808080&hide_border=true"
-    height="165"
-  />
-  &nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanK-IT&layout=compact&bg_color=1c1c1c&title_color=ffffff&text_color=a0a0a0&hide_border=true"
-    height="165"
-  />
-</p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=AryanK-IT&show_icons=true&bg_color=1c1c1c&title_color=ffffff&text_color=a0a0a0&icon_color=808080&hide_border=true" height="165"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanK-IT&layout=compact&bg_color=1c1c1c&title_color=ffffff&text_color=a0a0a0&hide_border=true" height="165"/></p>
 
 <p align="left">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=AryanK-IT&background=1c1c1c&border=333333&stroke=333333&ring=ffffff&fire=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=666666"
-    height="165"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AryanK-IT&background=1c1c1c&border=333333&stroke=333333&ring=ffffff&fire=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=666666" height="165"/>
 </p>
 
 ---
