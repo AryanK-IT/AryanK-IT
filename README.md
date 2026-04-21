@@ -1,6 +1,6 @@
-# 👨‍💻 Aryan (AryanK-IT)
+# Aryan (AryanK-IT)
 
-**`B.Tech CS Student | Full-Stack Developer | Web3 & Health-Tech`**
+**`B.Tech CS Student | Full-Stack Developer`**
 
 I'm a software engineering student building scalable web applications, decentralized systems, and data-driven tools. I enjoy working across the entire stack, from engineering NoSQL databases and smart contracts to building intuitive, functional interfaces.
 
@@ -25,20 +25,7 @@ I'm a software engineering student building scalable web applications, decentral
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
-#
 
-### 🚀 Featured Projects
-
-<a href="https://github.com/AryanK-IT/YOUR_SPLITWISE_REPO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanK-IT&repo=YOUR_SPLITWISE_REPO&bg_color=1c1c1c&title_color=ffffff&text_color=a0a0a0&icon_color=808080&hide_border=true" />
-</a>
-<a href="https://github.com/AryanK-IT/YOUR_ASPS_REPO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanK-IT&repo=YOUR_ASPS_REPO&bg_color=1c1c1c&title_color=ffffff&text_color=a0a0a0&icon_color=808080&hide_border=true" />
-</a>
-<a href="https://github.com/AryanK-IT/YOUR_HONEYPOT_REPO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanK-IT&repo=YOUR_HONEYPOT_REPO&bg_color=1c1c1c&title_color=ffffff&text_color=a0a0a0&icon_color=808080&hide_border=true" />
-</a>
-#
 
 ### 📊 GitHub Activity
 
