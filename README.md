@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>B.Tech IT · KIIT Bhubaneswar · 2023–2027</b><br/>
-  Full-Stack Developer &nbsp;·&nbsp; ML Enthusiast &nbsp;·&nbsp; Open Source
+  Full-Stack Development &nbsp;·&nbsp; Open Source
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 -  &nbsp;Studying **Information Technology** at KIIT, Bhubaneswar (2023–2027)
 -  &nbsp;Building full-stack apps with **Node.js, React, Express, MongoDB**
--  &nbsp;Exploring **deep learning** — built an AI voice deepfake detector at a hackathon
+-  &nbsp;Exploring **machine learning** — built an AI voice deepfake detector at a hackathon
 -  &nbsp;Interested in scalable backend architectures, REST APIs, and decentralized systems
 -  &nbsp;Reach me at **aryankumar.it04@gmail.com**
 
