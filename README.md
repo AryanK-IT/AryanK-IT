@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
--  &nbsp;Studying **Information Technology** at KIIT, Bhubaneswar (2023–2027)
+-  &nbsp;IT undergrad at KIIT, Bhubaneswar (2023–2027)
 -  &nbsp;Building full-stack apps with **Node.js, React, Express, MongoDB**
 -  &nbsp;Exploring **machine learning** — built an AI voice deepfake detector at a hackathon
 -  &nbsp;Interested in scalable backend architectures, REST APIs, and decentralized systems
